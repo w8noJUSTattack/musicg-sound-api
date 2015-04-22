@@ -1,0 +1,2 @@
+musicg-sound-api(<b>deprecated</b>) is renamed as <a href='http://code.google.com/p/musicg/'>musicg</a> (<a href='http://code.google.com/p/musicg/'><a href='http://code.google.com/p/musicg/'>http://code.google.com/p/musicg/</a></a>)
+<p>Updates will be announced in <a href='http://code.google.com/p/musicg/'><a href='http://code.google.com/p/musicg/'>http://code.google.com/p/musicg/</a></a></p>
